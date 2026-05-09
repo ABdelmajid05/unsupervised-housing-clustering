@@ -1,0 +1,1 @@
+Comparative analysis of unsupervised clustering algorithms on housing data using K-Means, DBSCAN, Agglomerative Clustering, and Gaussian Mixture Models (GMM). The project includes data preprocessing, outlier treatment, PCA visualization, and clustering performance evaluation using internal metrics.
